@@ -119,5 +119,4 @@ def upload_exresult(data, sname, snamecn, exname, exnamecn):
 
 
 exlist = pd.read_excel('code2name.xlsx')
-print('succeed!')
 
